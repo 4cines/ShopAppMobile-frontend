@@ -1,0 +1,89 @@
+.back-arrow{
+    width: 100px;
+}
+
+.product-page{ 
+    margin: 0 auto; 
+}
+
+.product-card{
+    padding-top: 2rem;
+}
+
+.floating-button-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+  }
+  
+.floating-button {
+    position: absolute;
+    bottom: 20px; 
+    right: 20px; 
+}
+
+.product-price{
+    font-size: 1.5rem;
+}
+
+
+.floating-button{
+    display: flex;
+    justify-content: center;
+}
+
+#img-product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;;
+}
+
+#img-product img{
+    max-width: 300px;
+    max-height: 500px;
+}
+
+.large-button{
+    width:50px;
+    height: 50px;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .spinner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+  }
+
+  .spinner{
+    width: 100px;
+  height: 100px;
+    color: var(--ion-color-primary);
+  }
+
+  .p-spinner{
+    color: var(--ion-color-primary);
+    font-weight: bold;
+  }
+  
+
+  .ion-button-pdf{
+    display: flex;
+    justify-content: center;
+  }
+
+  .alergenos-icon{
+    width: 50px;
+  }
+
+  .product-details{
+    border-style: none !important;
+  }

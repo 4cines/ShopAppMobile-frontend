@@ -1,0 +1,27 @@
+.ionic-page{
+    justify-content: center;
+}
+section.buttons-modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem
+}
+
+.error-message{
+    text-align: center ;
+}
+
+.title-list{
+   font-size: 1.5rem;
+   font-weight: bold;
+   margin: 0.5rem;
+}
+
+.list-card{
+    margin: 1rem;;
+}
+
+.lists-header{
+    font-weight: bold;
+}

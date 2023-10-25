@@ -1,0 +1,29 @@
+.pagination{
+    display: flex;  
+    justify-content: center;
+    align-items: center;    
+    margin-bottom: -1rem;
+}
+
+.button-page {
+    margin: 1rem;
+    height: 20px;
+}
+
+.current-page {
+    color: var(--primary-color);
+}
+
+.ion-select{
+    color: var(--primary-color);
+    font-size: 0.75rem;
+    margin-bottom: -2rem;
+
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+p.title-product-list{
+    color: var(--primary-color) !important;
+}

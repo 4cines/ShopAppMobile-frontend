@@ -1,0 +1,16 @@
+.logo{
+    height: 3rem;
+
+}
+
+.img-header{
+    display: flex;
+    justify-content: center;
+}
+
+#ion-header{
+    min-height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

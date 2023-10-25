@@ -1,0 +1,25 @@
+.card-list-product{
+    padding: 0!important;
+
+    margin-top: 0 !important;
+}
+
+.padding-bottom{
+    padding-top: 0.75rem;
+}
+
+.product-card {
+    padding-top: 0;
+}
+
+p.code-product-list{
+    margin-top: 0.5rem;
+}
+
+.card-content-list{
+    margin-top: 1rem
+}
+
+.bottons-size{
+    font-size: 0.60rem;
+}

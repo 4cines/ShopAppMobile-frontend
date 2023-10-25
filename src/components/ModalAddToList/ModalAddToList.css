@@ -1,0 +1,5 @@
+.selected-label{
+    color: var(--ion-color-secondary);
+    font-weight:bold;
+    font-size: 1rem;
+}

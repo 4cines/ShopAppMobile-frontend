@@ -1,0 +1,25 @@
+.add-rest-buttons-section{
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.quantity-input{
+  width: 2rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.card-modal{
+  margin-top: 3rem;
+
+}
+
+.header-cart-quantity{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

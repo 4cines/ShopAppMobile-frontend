@@ -1,0 +1,14 @@
+.calendar-component{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#alertCalendarbutton{
+    padding-top: 0.5rem;
+}
+
+.cart-buttons-2{
+    display: flex;
+    gap: 1rem
+}

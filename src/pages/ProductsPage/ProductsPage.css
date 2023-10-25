@@ -1,0 +1,19 @@
+.img-product-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-product-list img{
+    object-fit: contain;
+}
+
+p.title-product-list{
+    color: black;
+}
+
+p.code-product-list{
+    color: grey;
+    font-size: 0.60rem;
+}
+
