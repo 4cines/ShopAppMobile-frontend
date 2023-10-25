@@ -1,0 +1,10 @@
+.ion-page {
+    justify-content: unset !important;
+  }
+
+.error-message{
+    font-size: 1.5rem;
+    color: var(--ion-color-secondary);
+    margin: 3rem;
+    text-align: center;
+}
